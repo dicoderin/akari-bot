@@ -2,13 +2,13 @@
 
 [[package]]
 name = "aioconsole"
-version = "0.6.2"
+version = "0.7.0"
 description = "Asynchronous console and interfaces for asyncio"
 optional = false
-python-versions = ">=3.7"
+python-versions = ">=3.8"
 files = [
-    {file = "aioconsole-0.6.2-py3-none-any.whl", hash = "sha256:1968021eb03b88fcdf5f5398154b21585e941a7b98c9fcef51c4bb0158156619"},
-    {file = "aioconsole-0.6.2.tar.gz", hash = "sha256:bac11286f1062613d2523ceee1ba81c676cd269812b865b66b907448a7b5f63e"},
+    {file = "aioconsole-0.7.0-py3-none-any.whl", hash = "sha256:ee799435f77e8c3a2a7207c465feae2343a2aa537c38e8f56b629c8a321a02d0"},
+    {file = "aioconsole-0.7.0.tar.gz", hash = "sha256:c702d24406378d37d9873f91e03ce71520bac503d5ab03f81d8b563ff010bd54"},
 ]
 
 [[package]]
@@ -4295,4 +4295,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12.0"
-content-hash = "862e08b66f3e7f44359be585efcec100bd9fe9e09e3e6cee5c55d5b705399d8c"
+content-hash = "5c0c5e8bcb0013e6a5bcf10d5f2259c6ee01fa42bf2a6e79cdefd1a5ea131871"
